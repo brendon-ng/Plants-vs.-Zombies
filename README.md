@@ -8,3 +8,7 @@ To run the file through command line, cd into the repository and type the follow
 javac PlantsVsZombies.java
 java PlantsVsZombies
 ```
+## Screenshots
+![alt text](https://github.com/brendon-ng/Plants-vs.-Zombies/blob/master/Screenshot%201.png) <br/>
+![alt text](https://github.com/brendon-ng/Plants-vs.-Zombies/blob/master/Screenshot%202.png) <br/>
+![alt text](https://github.com/brendon-ng/Plants-vs.-Zombies/blob/master/Screenshot%203.png)
